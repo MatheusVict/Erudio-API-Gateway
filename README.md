@@ -1,0 +1,1 @@
+[![Continuos Integration with github](https://github.com/MatheusVict/Erudio-API-Gateway/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MatheusVict/Erudio-API-Gateway/actions/workflows/docker-image.yml)
