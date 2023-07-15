@@ -31,7 +31,7 @@ docker compose up -d
 # Routes:
 
 #### you can open on [localhost](htpp://localhost:8000)
-
+#### To open zipkin you use [localhost](http://localhost:9411)
 #### Docs
 [Swagger](http://localhost:8000/swagger-ui/index.html#/)
 
